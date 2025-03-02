@@ -1,4 +1,4 @@
-# High-accuracy and lightweight Image Classification Network for optimizing lymphoblastic Leukemia diagnosis
+# High-accuracy and Lightweight Image Classification Network for Optimizing Lymphoblastic Leukemia Diagnosis
 
 ⭐ our [article](http://doi.org/10.1002/jemt.24704) ⭐ 
 
